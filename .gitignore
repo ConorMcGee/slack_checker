@@ -1,0 +1,4 @@
+config.yaml
+slack_results.csv
+*.pyc
+*.swp
